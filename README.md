@@ -11,6 +11,8 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1lqpht8VI1KqGyjqNc4yHL-o8N8NLHsS6/view?usp=drivesdk](https://twilight-firefly-632.linkyhost.com)
 
+<img src="https://img.shields.io/badge/TensorTonic%20Score-850-orange?style=for-the-badge&logo=brain" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/satyasuman-sahoo-a79685235/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/satyasuman-sahoo-a79685235/" height="30" width="40" /></a>
