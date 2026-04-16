@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **suman.satyasahoo@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lqpht8VI1KqGyjqNc4yHL-o8N8NLHsS6/view?usp=drivesdk](https://twilight-firefly-632.linkyhost.com)
 
 <img src="https://img.shields.io/badge/TensorTonic%20Score-850-orange?style=for-the-badge&logo=brain" />
 
